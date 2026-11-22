@@ -1,13 +1,13 @@
 {
     "published":  true,
-    "version":  "0.5.0-b5117",
-    "version_code":  5117,
+    "version":  "0.6.0-b5120",
+    "version_code":  5120,
     "channel":  "preview",
-    "date":  "2026-11-22T10:19:18Z",
-    "apk":  "https://github.com/zmehanna/maison-mont-valerien-android-downloads/releases/download/android-v0.5.0-b5117-preview/MaisonMontValerien-Android-0.5.0-b5117-preview.apk",
+    "date":  "2026-11-22T10:31:20Z",
+    "apk":  "https://github.com/zmehanna/maison-mont-valerien-android-downloads/releases/download/android-v0.6.0-b5120-preview/MaisonMontValerien-Android-0.6.0-b5120-preview.apk",
     "size_bytes":  69648280,
-    "sha256":  "9ac02bb1a23a77477e65243cb3aa8bfd0618c6622f76b3b13d8a9262a15af193",
+    "sha256":  "3d2e7cc02b544d3590be4d2820e7b39a6214ac6e5699f2ea1026866bc5b773cd",
     "signer_sha256":  "f2ccca970ffff67a4ca1fea4386e2d89fab19002a71d4cfd19df374c42378342",
-    "source_commit":  "edfea61545cb1ef96fcf77940c7f9842517599e1",
-    "notes":  "Android 0.5.0-b5117 : build Hostinger vérifié. Écrans alignés sur iOS. Portail physique désactivé, climatisation en lecture seule. Préversion à tester sur téléphone Android."
+    "source_commit":  "a4d8e839c13673afba3ca163b325a377ff9b719d",
+    "notes":  "Android 0.6.0-b5120 : build Hostinger vérifié. Écrans alignés sur iOS. Portail physique désactivé, climatisation en lecture seule. Préversion à tester sur téléphone Android."
 }
