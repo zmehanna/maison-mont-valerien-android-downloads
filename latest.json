@@ -1,0 +1,12 @@
+{
+  "published": true,
+  "version": "0.5.0",
+  "version_code": 5,
+  "channel": "preview",
+  "date": "2026-11-22T07:09:34Z",
+  "apk": "https://github.com/zmehanna/maison-mont-valerien-android-downloads/releases/download/android-v0.5.0-preview/MaisonMontValerien-Android-0.5.0-preview.apk",
+  "size_bytes": 73744055,
+  "sha256": "aa316a779a0b94908ca3ac9c326406582cc55a3b29b70ead08244b1e9283dd59",
+  "source_commit": "d44d7fe",
+  "notes": "Préversion Android : navigation et 33 écrans harmonisés avec iOS. Portail physique désactivé, climatisation en lecture seule."
+}
